@@ -348,20 +348,28 @@ Track Progress → Complete Work → Update Status
 ## 📱 Screenshots
 
 ### Dashboard Overview
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 *Main dashboard with key metrics and quick access menu*
 
 ### Student Registration
-![Student Registration](docs/screenshots/student_registration.png)
+![Student Registration](Screenshots/studentadd.png)
 *Comprehensive student registration form with validation*
 
+### Student List
+![Student Registration](Screenshots/studentlist.png)
+*Display the list of the registered student*
+
+### Updating Student List
+![Student Registration](Screenshots/updatedetails.png)
+*Updating the details of the students*
+
 ### Room Management
-![Room Management](docs/screenshots/room_management.png)
+![Room Management](Screenshots/roomsummary.png)
 *Room allocation and occupancy tracking interface*
 
-### Fee Management
-![Fee Management](docs/screenshots/fee_management.png)
-*Fee structure configuration and payment processing*
+### Room Searching
+![Room Management](Screenshots/searchbyroom.png)
+*Searching based on the room Number*
 
 ## 🔐 Security Features
 
