@@ -502,32 +502,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## 📞 Support & Contact
-
-### Developer Information
-- **Name**: Samay Shetty
-- **USN**: 4AL22CS143
-- **Email**: samay.shetty@student.edu
-- **Course**: Computer Science Engineering
-- **Institution**: [Your Institution Name]
-
-### Getting Help
-- 📧 **Email Support**: Create an issue on GitHub
-- 📖 **Documentation**: Check `/docs` folder for detailed guides
-- 🐛 **Bug Reports**: Use GitHub Issues with bug template
-- 💡 **Feature Requests**: Use GitHub Issues with feature template
-
-### Acknowledgments
-- Thanks to the Advanced Java course instructors
-- Bootstrap team for the responsive framework
-- MySQL team for the robust database system
-- Apache Tomcat community for the web server
-
----
-
-**⭐ If you find this project helpful, please give it a star on GitHub!**
-
-**📅 Last Updated**: May 30, 2025  
-**🔄 Version**: 1.0.0  
-**📈 Status**: Active Development
