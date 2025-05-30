@@ -88,8 +88,8 @@ Before running this application, ensure you have:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/samayshetty/hostel-management-system.git
-cd hostel-management-system
+git clone https://github.com/Thrishaa16/Hostel_Management_System.git
+cd HostelManagement
 ```
 
 ### Step 2: Database Setup
